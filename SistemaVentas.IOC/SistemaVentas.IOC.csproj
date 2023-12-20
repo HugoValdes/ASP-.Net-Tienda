@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaVentas.DAO\SistemaVentas.DAO.csproj" />
+    <ProjectReference Include="..\SistemaVentas.Entity\SistemaVentas.Entity.csproj" />
+    <ProjectReference Include="..\SistemaVentas.Negocio\SistemaVentas.Negocio.csproj" />
+  </ItemGroup>
+
+</Project>
