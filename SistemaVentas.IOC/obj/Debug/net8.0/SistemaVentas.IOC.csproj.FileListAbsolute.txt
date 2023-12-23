@@ -17,3 +17,4 @@ C:\Users\Hugo Valdés\Desktop\SistemaVentas\SistemaVentasSolution\SistemaVentas.
 C:\Users\Hugo Valdés\Desktop\SistemaVentas\SistemaVentasSolution\SistemaVentas.IOC\obj\Debug\net8.0\refint\SistemaVentas.IOC.dll
 C:\Users\Hugo Valdés\Desktop\SistemaVentas\SistemaVentasSolution\SistemaVentas.IOC\obj\Debug\net8.0\SistemaVentas.IOC.pdb
 C:\Users\Hugo Valdés\Desktop\SistemaVentas\SistemaVentasSolution\SistemaVentas.IOC\obj\Debug\net8.0\ref\SistemaVentas.IOC.dll
+C:\Users\Hugo Valdés\Desktop\SistemaVentas\SistemaVentasSolution\SistemaVentas.IOC\obj\Debug\net8.0\SistemaVentas.IOC.sourcelink.json
